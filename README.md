@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=MUZIMAKZI%20&fontSize=90)
-# 31-1st-MUZIMAKZI-Front-End
+# 1st-MUZIMAKZI-Front-End
 ## Member: 윤서영, 임재혁, 문혜성, 노규현
 
 
