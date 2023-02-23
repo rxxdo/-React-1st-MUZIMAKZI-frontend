@@ -3,6 +3,17 @@
 ## Member: 윤서영, 임재혁, 문혜성, 노규현
 
 
+## 상세내용 
+
+[프로젝트 회고](https://velog.io/@rxxdo/1%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0-with-%EB%AC%B4%EC%A7%80%EB%A7%89%EC%A7%80)
+
+[캐러셀 구현](https://velog.io/@rxxdo/React-PJ.-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%97%86%EC%9D%B4-%EB%B2%84%ED%8A%BC-%EC%9E%90%EB%8F%99%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C-%EA%B5%AC%ED%98%84)
+
+[네이게이션바 구현](https://velog.io/@rxxdo/React-PJ.-API-%ED%98%B8%EC%B6%9C%EC%9D%84-%ED%86%B5%ED%95%9C-Aside-%EA%B5%AC%ED%98%84-%EB%B0%8F-QueryString-%EC%9D%84-%ED%86%B5%ED%95%9C-Aside-url-%EC%A0%81%EC%9A%A9)
+ 
+
+
+
 
 ## Introduction
 - 기간: 2022-03-28 ~ 2022-04-08
